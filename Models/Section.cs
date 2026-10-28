@@ -1,7 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-
-namespace StudentApi.Models;
+namespace StudentAPI.Models;
 
 [Table("sections")]
 public class Section
